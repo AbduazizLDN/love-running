@@ -1,0 +1,4 @@
+{
+    "python.analysis.typeEvaluation.deprecateTypingAliases": false,
+    "python.terminal.shellIntegration.enabled": true
+}
